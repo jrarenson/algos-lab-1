@@ -7,6 +7,8 @@
 public class Robbery {
 
 	// Using DP: Get the maximum value with capacity C and n items
+	// By accident I downloaded the assignments repo and didn't realize until class was over
+	// I was looking at the glass falling class
 	public int maximizeRobWorthRecur(
 		int capacity,
 		int[] sizes,
